@@ -42,7 +42,7 @@ Une fois téléchargés, intégrez les sprites dans votre projet. Vous pouvez ut
 
 ## Conclusion
 
-Félicitations, vous avez maintenant appris à installer et utiliser des sprites d'anime dans vos projets. Explorez davantage sur [Anime Character Sprite](lien_vers_votre_site) pour créer des expériences visuelles uniques.
+Félicitations, vous avez maintenant appris à installer et utiliser des sprites d'anime dans vos projets. Explorez davantage sur [Anime Character Sprite](https://startup-acs.vercel.app/) pour créer des expériences visuelles uniques.
 
 :::callout{title="Conseil Rapide"}
 N'oubliez pas de créditer Anime Character Sprite lors de l'utilisation de leurs sprites dans vos projets.
