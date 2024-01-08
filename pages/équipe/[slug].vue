@@ -50,7 +50,7 @@ const membre = ref(data.value.membre);
     <!-- Ajoutez des propriétés supplémentaires en fonction de la structure de votre modèle -->
   </Head>
 
-  <div v-if="membreEquipe" class="max-w-full flex flex-col md:flex-row mx-auto p-8 bg-white rounded-lg shadow-md">
+  <div v-if="membre" class="max-w-full flex flex-col md:flex-row mx-auto p-8 bg-white rounded-lg shadow-md">
     <img class="w-full md:w-1/2 h-auto rounded mb-4 md:mb-0 md:mr-4" :src="membre.image.url" :alt="membre.name" />
 
     <div class="md:w-1/2 flex flex-col justify-center">
