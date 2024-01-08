@@ -18,8 +18,8 @@
 
 <script setup>
 const query = gql`
-  query Equipe {
-    membresEquipe {
+  query Membres {
+    membres {
       createdAt
       id
       publishedAt
@@ -40,7 +40,7 @@ const query = gql`
 `;
 
 const { data } = await useAsyncQuery(query);
-const equipe = ref(data.value.membresEquipe);
+const membres = ref(data.value.membres);
 </script>
 
 
