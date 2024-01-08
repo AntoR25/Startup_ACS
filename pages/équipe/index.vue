@@ -40,7 +40,7 @@ const query = gql`
 `;
 
 const { data } = await useAsyncQuery(query);
-const membre = ref(data.value.membre);
+const membres = ref(data.value.membres);
 </script>
 
 
